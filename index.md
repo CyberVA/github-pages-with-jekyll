@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Vincents 342 project"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here's a list of interesting pages I made!
