@@ -8,4 +8,4 @@ date: 2021-10-03
 * Age: 21
 * Interests: Video games, Developing video games, art, factory games, catan, DnD, and more!
 
-![Vincent](https://photos.app.goo.gl/xP8z4VdEFQk8TR8S7)
+![Vincent](https://i.imgur.com/JVpp9iE.png)
