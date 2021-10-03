@@ -1,5 +1,5 @@
 ---
-title: "Vincent's 342 Project"
+title: "More about Vincent"
 date: 2021-10-03
 ---
 
